@@ -48,19 +48,3 @@ while True:
                 last_ids[bot_account][0] = last_tweet.id
             except:
                 pass
-        
-    
-
-
-
-        
-        
-        
-
-
-
-
-
-
-
-
